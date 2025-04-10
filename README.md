@@ -1,10 +1,10 @@
-# Curbing the Ramifications of Authorship Abuse in Science
+# Curbing the Ramifications of Authorship Abuse in Science(https://arxiv.org/abs/2504.02769)
 
 This repository contains the code used to analyze bibliometric data, generate publication‐quality figures (e.g., heatmaps, distribution plots), and evaluate our Fibonacci-adjusted metrics that address authorship abuse in scientific publications. The associated dataset is hosted in a separate repository.
 
 ## Introduction
 
-In this project, we present a comprehensive analysis of bibliometric data spanning 34 years and approximately 5000 author profiles across multiple scientific disciplines. The code in this repository includes dataset creation codes and data analysis codes alanlyzing the rising number of author trend and comparision for Fibonacci adjusted metrics with their traditional counter metrics.
+In this project, we present a comprehensive analysis of bibliometric data spanning 34 years and approximately 4700 author profiles across multiple scientific disciplines. The code in this repository includes dataset creation codes and data analysis codes analyzing the rising number of author trends and comparisons for Fibonacci-adjusted metrics with their traditional counter metrics.
 
 ## Features
 
@@ -31,5 +31,3 @@ In this project, we present a comprehensive analysis of bibliometric data spanni
 - The dataset used in this study is maintained in a separate GitHub repository. Please access and download the dataset from the following link:
 
 - Dataset Repository Link
-
-- Refer to the dataset repository’s README for further details on data structure, preprocessing steps, and versioning.
